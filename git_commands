@@ -1,0 +1,64 @@
+    1  git --version
+    2  git --version
+    3  exit
+    4  ls -ltr
+    5  pwd
+    6  exit
+    7  exit
+    8  exit
+    9  ls -ltr
+   10  cd Course/
+   11  ls -ltr
+   12  cd C:\Users\sigal\AppData\Local\Programsls -ltr
+   13  cd
+   14  cd c:/users/sigal
+   15  cd AppData/Local/Programs/
+   16  ls -ltr
+   17  cd Microsoft\ VS\ Code/
+   18  ls -ltr
+   19  code .
+   20  pwd
+   21  cd
+   22  ls -tlr .aliases
+   23  vi .aliases
+   24  source .aliases 
+   25  man alias
+   26  cd
+   27  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   28  exit
+   29  ls -tlr
+   30  exit
+   31  ls -ltr
+   32  git --version
+   33  git status
+   34  ls -la
+   35  git status
+   36  git add .
+   37  git add .
+   38  git status
+   39  git -help
+   40  git reset
+   41  git status
+   42  ls -la
+   43  ls -la
+   44  touch .gitignore
+   45  ls -tlr
+   46  ls -la
+   47  vi  .gitignore
+   48  git add .
+   49  git status
+   50  git commit -m "final version of pre course"
+   51  git status
+   52  git remote add origin 
+   53  git remote add origin git@github.com:sigaltamir10/preCourseExe.git
+   54  git remote -v
+   55  git push origin main 
+   56  git remote add origin git@github.com:sigaltamir10/preCourseExe.git
+   57  git remote set-url origin 
+   58  git remote set-url origin git@github.com:sigaltamir10/preCourseExe.git
+   59  git push origin main 
+   60  git remote set-url origin https://github.com/sigaltamir10/preCourseExe.git
+   61  git push origin main 
+   62  git status
+   63  history
+   64  history > git_commands
